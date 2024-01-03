@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/mern-pos-app/static/css/main.dcab0493.css",
+    "main.js": "/mern-pos-app/static/js/main.99d335ac.js",
+    "index.html": "/mern-pos-app/index.html",
+    "main.dcab0493.css.map": "/mern-pos-app/static/css/main.dcab0493.css.map",
+    "main.99d335ac.js.map": "/mern-pos-app/static/js/main.99d335ac.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dcab0493.css",
+    "static/js/main.99d335ac.js"
+  ]
+}
